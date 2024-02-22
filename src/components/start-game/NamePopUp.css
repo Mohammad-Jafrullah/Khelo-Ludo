@@ -1,0 +1,72 @@
+/* *** FOR POPUP *** */
+
+.popup-body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0%;
+    z-index: 100;
+}
+
+.popup-body .names-popup{
+    width: 350px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid #cacaca;
+    animation: entry-animation .5s linear;
+    position: absolute;
+}
+
+.popup-body .names-popup p{
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.popup-body .names-popup .input-box{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.popup-body .names-popup .token{
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.popup-body .names-popup .input-box input{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #cacaca;
+    border-radius: 5px;
+    outline: 2px solid #f9f52380;
+}
+
+.popup-body .names-popup .submit-btn{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.popup-body .names-popup .cut-btn{
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    cursor: pointer;
+}
+
+@keyframes entry-animation {
+    from{
+        top: 0%;
+    }
+    to{
+        top: 20%
+    }
+}
