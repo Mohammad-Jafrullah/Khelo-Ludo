@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Khelo-Ludo/static/css/main.d1e021f8.css",
+    "main.js": "/Khelo-Ludo/static/js/main.66a2bf53.js",
+    "static/js/453.a7d335e1.chunk.js": "/Khelo-Ludo/static/js/453.a7d335e1.chunk.js",
+    "static/media/Khelo-Ludo.svg": "/Khelo-Ludo/static/media/Khelo-Ludo.56850004585f3ee485ef.svg",
+    "static/media/lot-dice-texture-game-concept_548821-63871.jpg": "/Khelo-Ludo/static/media/lot-dice-texture-game-concept_548821-63871.fee72ecef64733b3c3cb.jpg",
+    "static/media/Ludo Board.jpg": "/Khelo-Ludo/static/media/Ludo Board.8ca4cfbe9693e8632ca5.jpg",
+    "index.html": "/Khelo-Ludo/index.html",
+    "main.d1e021f8.css.map": "/Khelo-Ludo/static/css/main.d1e021f8.css.map",
+    "main.66a2bf53.js.map": "/Khelo-Ludo/static/js/main.66a2bf53.js.map",
+    "453.a7d335e1.chunk.js.map": "/Khelo-Ludo/static/js/453.a7d335e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e021f8.css",
+    "static/js/main.66a2bf53.js"
+  ]
+}
